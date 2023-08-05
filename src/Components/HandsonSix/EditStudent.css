@@ -1,0 +1,27 @@
+.editStudentField {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name-age {
+    padding: 30px;
+    margin: 30px;
+}
+
+.course-batch {
+    padding: 30px;
+    margin: 20px;
+}
+
+input {
+    height: 40px;
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}

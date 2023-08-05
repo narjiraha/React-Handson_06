@@ -1,0 +1,50 @@
+.addNewstudent-field {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name-age {
+    padding: 30px;
+    margin: 30px;
+}
+
+.course-batch {
+    padding: 30px;
+    margin: 30px;
+}
+
+input {
+    height: 40px;
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin: 30px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: blue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: large;
+    color: black;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.9);
+    transform: translateY(-5px);
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
